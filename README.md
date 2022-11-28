@@ -1,8 +1,8 @@
-# Nama : Muhammad Iqbal Fadillah
+# Nama  = Muhammad Iqbal Fadillah
 
-# Kelas : TI.22 B.2
+# Kelas = TI.22 B.2
 
-# NIM : 312210586
+# NIM   = 312210586
 
 # Mata Kuliah = Bahasa Pemrograman
 
