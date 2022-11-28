@@ -53,3 +53,5 @@ Perulangan diatas adalah perulangan yang akan berjalan terus menerus dan akan be
 ![gambar15](15.png)
 * Keluar dari program dengan input K
 ![gambar16](16.png)
+
+# <p align="center">---TERIMAKASIH---</p>
